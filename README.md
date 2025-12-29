@@ -1,2 +1,2 @@
 # website
-company website
+ website
